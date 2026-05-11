@@ -49,6 +49,17 @@ The project uses Unreal Engine as a simulation platform to test this interaction
 
 ---
 
+## Demo Video
+
+The full project demonstration video is available on Google Drive.
+
+[![Virtual Tennis Robot Simulation Demo](docs/demo_cover.png)](https://drive.google.com/file/d/1ZxW5eBTw1dsjzBuFvJBuL_PTU4g0igBt/view?usp=sharing)
+
+Click the preview image above to watch the demo video.
+
+---
+
+
 ## Requirements
 
 To open and run this project, you need:
